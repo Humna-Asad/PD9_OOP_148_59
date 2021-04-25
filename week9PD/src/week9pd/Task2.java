@@ -5,10 +5,6 @@
  */
 package week9pd;
 
-/**
- *
- * @author Noor ul Huda
- */
 import java.util.Scanner;
 public class Task2 {
     
